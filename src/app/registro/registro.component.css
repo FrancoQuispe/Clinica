@@ -1,0 +1,68 @@
+.container-fluid{
+	background: #7C0444;
+	color: #FFFFFF;
+	font-size: 15px;
+}
+
+.texto{
+	
+	text-align: right;
+	width: 500px;
+}
+
+label{
+	display: inline-block;
+	width: 200px;
+
+}
+
+input{
+	color: #000;
+	border-radius: 5px;
+	width: 200px;
+	outline: none;
+	border: none;
+	display: inline-block;
+	font-weight: bold;
+	color: black;
+}
+.morado{
+	background-color: #E31F6E;
+}
+.azul{
+	background-color: #2FA5AD;
+}
+.amarillo{
+	background-color: #FAB81E;
+}
+.verde{
+	background-color: #95B53C;
+}
+.fecha{
+	width: 200px;
+}
+
+.registrar{
+	padding-top: 50px;
+	text-align:  center;
+}
+
+.boton{
+	text-decoration: none;
+    padding: 6px;
+    width: 120px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #ffffff;
+    background: linear-gradient(#D44A98, #1E588A);
+    border-radius: 6px;
+    border: 0;
+  }
+  .boton:hover{
+    color: #FFFFFF;
+    background: #FE8CF8;
+  }
+.registrar{
+	padding-bottom: 7%;
+	font-size: 30px;
+}

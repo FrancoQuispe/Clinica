@@ -1,0 +1,32 @@
+
+.container-fluid{
+	width: 80%;
+	float: right;
+}
+
+.boton{
+	text-align: center;
+	padding-bottom: 15px;
+}
+input{
+	border: none;
+	border-radius: 5px;
+	height: 45px;
+	width: 350px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.azul{
+	background-color: #2FA5AD;
+}
+.morado{
+	background-color: #E31F6E;
+}
+.amarillo{
+	background-color: #FAB81E;
+}
+.verde{
+	background-color: #95B53C;
+}

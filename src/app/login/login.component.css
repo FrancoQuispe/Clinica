@@ -1,0 +1,94 @@
+img{
+	width: 350px;
+	height: 350px;
+}
+#izquierda
+{
+	background: #660033;
+	padding-top: 260px;
+	padding-bottom: 265px;
+}
+#derecha
+{
+	background: #4F0027;
+	padding-top: 141px;
+	padding-bottom: 142px;
+	
+}
+#login
+{
+	background: #99004D;
+	
+}
+h2
+{
+	font-family: arial;
+	color: #FFFFFF;
+	padding-bottom: 20px;
+}
+h4
+{
+	font-family: arial;
+	color: #FFFFFF;
+}
+
+input {
+	outline: none;
+	background-color: transparent;
+	border: none;
+	border-bottom: 2px solid #FFFFFF;
+	color:#FFFFFF;
+}
+
+::-webkit-input-placeholder { color: #FFFFFF; } 
+:focus::-webkit-input-placeholder{color:transparent;}
+
+
+a:hover {
+	text-decoration: none;
+  color: #DAD400;
+
+}
+.txt {
+  font-size: 13px;
+  color: #FFFFFF;
+  line-height: 1.5;
+}
+.input{
+	width: 200px;
+	text-align: center;
+}
+
+.DivInput{
+	padding: 20px;
+}
+
+.boton{
+	text-decoration: none;
+    padding: 6px;
+    width: 120px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #ffffff;
+    background: linear-gradient(#D44A98, #1E588A);
+    border-radius: 6px;
+    border: 0;
+  }
+  .boton:hover{
+    color: #FFFFFF;
+    background: #FE8CF8;
+  }
+
+  .DivBoton{
+  	padding-top: 10px;
+  	padding-bottom: 30px;
+  }
+
+  .texto
+  {
+  	padding-bottom: 20px;
+  }
+
+  .textoContrasena{
+  	padding-bottom: 10px;
+  }

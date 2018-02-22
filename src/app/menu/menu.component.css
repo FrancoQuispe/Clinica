@@ -1,0 +1,60 @@
+.container-fluid{
+	color: #FFFFFF;
+	width: 80%;
+	float: right;
+}
+
+input{
+	border-radius: 5px;
+	width: 200px;
+	outline: none;
+	border: none;
+	display: inline-block;
+	font-weight: bold;
+}
+
+.imagen{
+	width: 40px;
+	height: 30px;
+	border: 2px solid #FFFFFF;
+}
+
+.botonesIzquierda{
+	padding-left: 25px;
+	padding-top: 25px;
+	padding-bottom: 130px;
+}
+
+.botonesDerecha{
+	padding-right: 25px;
+	padding-top: 25px;
+	padding-bottom: 130px;	
+	text-align: right;
+}
+
+
+
+.sesion{
+	background-color: transparent;
+	border:2px Solid #FFFFFF;
+	width: 110px;
+	height: 35px;
+	text-align: center;
+	float: right;
+}
+.campana{
+	width: 40px;
+	height: 35px;
+	border: 2px solid #FFFFFF;
+}
+
+.registro{
+	font-size: 30px;
+	padding-left: 15px;
+}
+
+.divLabel{
+	padding-top: 25px;
+	text-align: center;
+	font-size: 30px;
+}

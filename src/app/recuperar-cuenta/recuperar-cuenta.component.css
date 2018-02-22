@@ -1,0 +1,53 @@
+.container-fluid{
+	text-align: center;
+}
+
+.formulario{
+	color: #FFF;
+	width: 400px;
+	margin-left:  33%;
+	margin-bottom: 4%;
+	margin-top: 15%;
+}
+
+label{
+	display: inline-block;
+	width: 200px;
+	text-align: right;
+}
+
+input{
+	display: inline-block;
+	border-radius: 5px ;
+	outline: none;
+	border: none;
+	color: black;
+	font-weight: bold;
+	font-size: 15px ;
+	margin-bottom: 10px;
+}
+
+.azul{
+	background: #2FA5AD;
+}
+
+.morado{
+	background: #E31F6E;
+}
+
+.boton input{
+	text-decoration: none;
+    padding: 6px;
+    width: 120px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #ffffff;
+    background: linear-gradient(#D44A98, #1E588A);
+    border-radius: 6px;
+    border: 0;
+}
+
+.boton input:hover{
+	color: #FFFFFF;
+    background: #FE8CF8;
+}
